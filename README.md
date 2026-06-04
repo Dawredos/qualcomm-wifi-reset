@@ -8,7 +8,7 @@ A simple Windows Batch script designed to automatically disable and re-enable th
 - Performs a hard reset by disabling and re-enabling the PnP device.
 
 ## Prerequisites
-- Must be run as **Administrator**
+- Must be run "YES" as **Administrator**
 - Intended for systems with Qualcomm Atheros Wi-Fi adapters.
 
 ## Usage
